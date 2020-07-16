@@ -1,0 +1,19 @@
+Start the mongoDB server: 
+	>> /Users/bhema/mongodb/bin/mongod.exe --dbpath=/Users/bhema/mongodb-data
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
